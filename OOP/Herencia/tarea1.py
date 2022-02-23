@@ -45,7 +45,7 @@ class Gerente(Trabajador):
     def trabaja(self):
         print("Gerencia")
 
-
+#Pruebas
 marcos = Programador(1, "Marcos")
 laura = Secretario(2, "Laura")
 adolfo = Gerente(3, "Adolfo")
